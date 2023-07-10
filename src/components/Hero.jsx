@@ -19,7 +19,7 @@ const Hero = () => {
             <span className="text-[#915eff]"> Md. Habibur Rahman Shohel</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I am a Full-Stack developer (MERN).{" "}
+            I am a Software developer (MERN).{" "}
             <br className="sm:block hidden" />
             Computer Science and Engineering Graduate.
           </p>
