@@ -40,6 +40,7 @@ const About = () => {
       </motion.div>
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
+        className="text-justify"
       >
         I am a skilled software developer with expertise in MERN stack and experience in Javascript frameworks like ReactJS, NextJS, ExpressJS, and NodeJS. I have a strong foundation in OOP, data structures and algorithms, and I am passionate about solving problems and building scalable applications. I am a quick learner and a team player who is always ready to learn new technologies. Let's work together to bring your ideas to life!
       </motion.p>
